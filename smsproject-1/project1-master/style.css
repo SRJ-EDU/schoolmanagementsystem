@@ -320,6 +320,70 @@ contact Page Design
     
    margin-left:20px;
 } 
+#srjTeachers .card {
+    height: 60vh;
+    box-shadow: 0px 4px 11px #333;
+    border-radius: 0px;
+    width: 250px;
+}
+
+#srjTeachers .card-img-top {
+    height: 51vh;
+    object-fit: cover;
+}
+
+#srjTeachers .card-body-1 {
+    background: #ff8c24;
+}
+
+#srjTeachers .card-body-2 {
+    background: #dc3c3a;
+}
+
+#srjTeachers .card-text-1 {
+    font-weight: 600;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+#srjTeachers .card-text-2 {
+    font-weight: 400;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+/* teacher end */
+#srjTeachers .card {
+    height: 60vh;
+    box-shadow: 0px 4px 11px #333;
+    border-radius: 0px;
+    width: 250px;
+}
+
+#srjTeachers .card-img-top {
+    height: 51vh;
+    object-fit: cover;
+}
+
+#srjTeachers .card-body-1 {
+    background: #ff8c24;
+}
+
+#srjTeachers .card-body-2 {
+    background: #dc3c3a;
+}
+
+#srjTeachers .card-text-1 {
+    font-weight: 600;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+
+#srjTeachers .card-text-2 {
+    font-weight: 400;
+    color: #f1f1f1;
+    font-size: 20px;
+}
+/* teacher end */
 
 
 
